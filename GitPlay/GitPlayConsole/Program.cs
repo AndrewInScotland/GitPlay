@@ -8,7 +8,7 @@ namespace GitPlayConsole
         {
             Console.WriteLine("Git Play");
 
-            Console.WriteLine("Enter...");
+            Console.WriteLine("Enter when ready...");
 
             Console.ReadLine();
         }
