@@ -6,9 +6,9 @@ namespace GitPlayConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Play");
+            Console.WriteLine("This is a play called Git.");
 
-            Console.WriteLine("Enter...");
+            Console.WriteLine("Act 1 begins when ready...");
 
             Console.ReadLine();
         }
